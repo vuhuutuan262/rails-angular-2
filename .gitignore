@@ -21,3 +21,11 @@
 
 # IDE
 /.idea
+
+
+/public/*
+/coverage/*
+.env
+.DS_Store
+.sass-cache/
+/vendor/assets/bower_components
