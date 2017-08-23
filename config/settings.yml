@@ -1,0 +1,5 @@
+validations:
+  user:
+    name_max_length: 64
+    password_min_length: 8
+    password_max_length: 128
