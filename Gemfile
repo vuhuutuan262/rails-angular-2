@@ -19,7 +19,6 @@ gem "ransack", github: "activerecord-hackery/ransack"
 gem "kaminari"
 gem "devise"
 gem "carrierwave"
-gem "rmagick"
 gem "mini_magick"
 gem "bower-rails", "~> 0.11.0"
 
